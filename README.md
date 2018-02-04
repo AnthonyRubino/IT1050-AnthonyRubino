@@ -1,2 +1,1 @@
-# Lab 01
-Hello World from Anthony
+# Hello World from Anthony
