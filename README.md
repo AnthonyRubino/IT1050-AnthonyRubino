@@ -1,2 +1,2 @@
-# IT1050-AnthonyRubino
+# Lab 01
 Hello World from Anthony
